@@ -1,12 +1,12 @@
 # Churn_prediction
 PROJECT TITLE
 -------------
-Customer Churn Prediction using Recurrent Neural Network (RNN)
+Customer Churn Prediction using Artificial Neural Network (ANN)
 
 
 PROJECT DESCRIPTION
 -------------------
-This project aims to predict whether a customer will stay with or leave a company using a Recurrent Neural Network (RNN).  
+This project aims to predict whether a customer will stay with or leave a company using a Artificial Neural Network (ANN).  
 The model is trained on a customer churn dataset and deployed using Streamlit to provide an interactive web application for real-time predictions.
 
 RNNs are used to capture sequential patterns and dependencies in the data, helping improve churn prediction accuracy.
@@ -27,7 +27,7 @@ The project consists of three major components:
   - Handling missing values
   - Encoding categorical features
   - Scaling numerical values
-- A Recurrent Neural Network (RNN) architecture is designed.
+- A Artificial Neural Network (ANN) architecture is designed.
 - The model is trained on historical customer data.
 - Learned temporal and sequential patterns related to customer behavior.
 - The trained model is saved for future predictions.
@@ -35,7 +35,7 @@ The project consists of three major components:
 
 2. MODEL PREDICTION
 -------------------
-- The saved RNN model is loaded.
+- The saved ANN model is loaded.
 - New customer input data is provided to the model.
 - The model predicts whether the customer will:
   - Stay with the company, or

@@ -104,7 +104,7 @@ This project is for educational purposes only.
 👤 Author
 
 Raisa Sharfeen
-MCA Graduate | Python | SQL | AI & ML Enthusiast
+ Python | SQL | AI & ML Enthusiast
 
 ⭐ Acknowledgement
 

@@ -104,7 +104,6 @@ This project is for educational purposes only.
 👤 Author
 
 Raisa Sharfeen
- Python | SQL | AI & ML Enthusiast
 
 ⭐ Acknowledgement
 
